@@ -1,0 +1,47 @@
+/*  Jab participants event pai dabayenge to tab jo event ki photo dikhayi dege yeah vo
+    vali class hai */
+
+body {
+    background-color: rgb(233, 233, 233);
+}
+
+.first {
+    padding-top: 50px;
+}
+
+.block {
+    padding: 30px;
+}
+
+
+.img-fluid 
+{
+    height: 300px;
+   	width: auto;        /* Automatically adjust width to maintain aspect ratio */
+    border-radius: 10px;
+    object-fit: cover;   /* Cover ensures the image covers the container while maintaining aspect ratio */
+    display: block;      /* Ensures the image is treated as a block element, useful for centering */ */
+    margin-left: auto;   /* Center image horizontally */ 
+    margin-right: auto;  /*Center image horizontally --> yeah dono likhne sai image center mai hogi*/ 
+}
+
+h2 {
+    font-weight: 900;
+}
+
+.btn-primary {
+    background-color: #FF5964;
+    border: #FF5964;
+}
+
+.btn-primary:hover {
+    background-color: #c43741;
+}
+
+.main-button {
+	margin-bottom: 20px;
+}
+
+.cta {
+	font-size: 15px;
+}
