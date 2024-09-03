@@ -1,2 +1,2 @@
-# forum
-project for my "programming" studies. An event website where you can create and register for events. Done completely on Java with Spring Boot.
+# Book My Event Application
+project for my full stack web development. An event website where you can create and register for events. Done completely on HTML, CSS, JS, Java, Spring Boot and SQL.
